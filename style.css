@@ -1,3 +1,7 @@
+*{
+    background-color: rgb(31, 31, 31);
+}
+
 body{
     width: auto;
     height: 100vh;
